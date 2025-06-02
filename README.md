@@ -25,6 +25,7 @@ If you have any feedback, please reach out to us at [your email here]
 - 🎃 Authentication and Authorization with JWT
 - 👾 Real-time messaging with Socket.io
 - 🚀 Online user status
+- 🎙️ Voice Notes!!
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
 - And much more!
@@ -42,7 +43,7 @@ CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
 ```
-````
+
 
 ## Run Locally
 
@@ -82,4 +83,3 @@ npm run build
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-```
