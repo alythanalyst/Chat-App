@@ -12,11 +12,19 @@ const messageSchema = new mongoose.Schema(
       ref: "User",
       required: true,
     },
-    text: {
+    content: {
       type: String,
     },
-    image: {
+    fileUrl: {
       type: String,
+    },
+    fileType: {
+      type: String,
+    },
+    type: {
+      type: String,
+      enum: ["text", "image", "voice"],
+      default: "text",
     },
   },
   { timestamps: true }

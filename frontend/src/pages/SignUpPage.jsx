@@ -42,7 +42,7 @@ const SignUpPage = () => {
     const success = validateForm();
     const dataToSend = {
       fullName: formData.fullName.trim(),
-      email: formData.email.trim().toLowerCase(), // Convert to lowercase here
+      email: formData.email.trim().toLowerCase(),
       password: formData.password,
     };
 
