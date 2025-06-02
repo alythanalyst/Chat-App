@@ -1,6 +1,3 @@
-Sure, here's how you can reorganize the README file:
-
-````markdown
 # Full Stack Realtime Chat App
 
 A real-time chat application built using the MERN stack with additional technologies like Socket.io and TailwindCSS for enhanced functionality and styling.
@@ -8,10 +5,10 @@ A real-time chat application built using the MERN stack with additional technolo
 ## 📸 Screenshots
 
 ![App Screenshot 1](/assets/screenshot1.png)
-_Caption for Screenshot 1_
+_Home Page_
 
 ![App Screenshot 2](/assets/screenshot2.png)
-_Caption for Screenshot 2_
+_Login Screen_
 
 ## Feedback
 
@@ -85,7 +82,4 @@ npm run build
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-```
-
-This format provides a clear and concise overview of the project, making it easier for users to understand what the project does, how to set it up, and where to find more information.
 ```
