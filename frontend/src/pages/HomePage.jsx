@@ -1,4 +1,3 @@
-// frontend/src/pages/HomePage.jsx
 import { useEffect, useRef } from "react";
 import { useChatStore } from "../store/useChatStore";
 import { useAuthStore } from "../store/useAuthStore";
