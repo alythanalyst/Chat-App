@@ -12,7 +12,7 @@ _Login Screen_
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [your email here]
+If you have any feedback, please reach out to us at alyinnovates@gmail.com
 
 ## 🌟 Tech Stack
 
